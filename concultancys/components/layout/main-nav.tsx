@@ -21,7 +21,7 @@ export default function NavbarScrollWithLogo() {
     { name: 'Home', href: '/' },
     { name: 'About Us', href: '/about' },
     { name: 'Services', href: '/services' },
-    // { name: 'Projects', href: '/projects' },
+    { name: 'Projects', href: 'https://construction.esthoj.com/projects' },
   ];
 
   useEffect(() => {
